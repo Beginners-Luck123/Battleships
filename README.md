@@ -2,7 +2,7 @@
 Aim to attack the opponent's board by pinpointing their battleships.
 ## Directions
 Input placement of the ship and it's direction to attack  the opponent's board.
-## Output
+## Sample Gameplay
 ```
 __0_1_2_3_4_5_6_7_8_9_
 0|~|~|~|~|~|~|~|~|~|~|
